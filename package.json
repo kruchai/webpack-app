@@ -1,0 +1,8 @@
+{
+  "name": "webpack-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ScoutCodes/webpack-app.git",
+  "author": "scout <olegkruchay@hotmail.com>",
+  "license": "MIT"
+}
