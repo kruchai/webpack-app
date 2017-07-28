@@ -6,7 +6,8 @@
   "author": "scout <olegkruchay@hotmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "webpack",
+    "start": "webpack-dev-server",
+    "build": "webpack",
     "serv": "static build"
   },
   "devDependencies": {
